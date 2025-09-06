@@ -29,7 +29,7 @@ _Modern protocol-side framework implemented based on NTQQ._
   - 持续稳定的开发与维护.
 ## Quick Start
 
-可前往 [Release](https://github.com/NapNeko/NapCatQQ/releases/) 页面下载最新版本
+可前往 [Release](https://github.com/xinghanxu6666/NapCatQQ/releases/) 页面下载最新版本
 
 **首次使用**请务必查看如下文档看使用教程
 
